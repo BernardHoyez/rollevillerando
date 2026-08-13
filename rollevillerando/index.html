@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Randonnées à Rolleville</title>
+<meta name="description" content="Les randonnées autour du village de Rolleville : visites guidées, traces KML et GPX.">
+<meta name="theme-color" content="#5c7a4e">
+
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/favicon-32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,500;1,9..144,600&family=Inter:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="dl-bar" class="dl-bar" hidden aria-hidden="true">
+  <div id="dl-bar-fill" class="dl-bar__fill"></div>
+</div>
+
+<header class="hero">
+  <div class="hero__img" style="background-image:url('img/etang-rolleville.jpg')"></div>
+  <div class="hero__veil"></div>
+  <div class="hero__content">
+    <p class="hero__eyebrow">Village de Rolleville · Pays de Caux</p>
+    <h1 class="hero__title">Randonnées à&nbsp;Rolleville</h1>
+    <p class="hero__tagline">Chemins creux, étangs et bocages — les balades à faire autour du village, à suivre à son rythme.</p>
+  </div>
+  <svg class="hero__path" viewBox="0 0 1440 80" preserveAspectRatio="none" aria-hidden="true">
+    <path d="M0,40 C180,10 320,70 500,45 C680,20 760,65 940,42 C1120,20 1260,60 1440,35 L1440,80 L0,80 Z"></path>
+  </svg>
+</header>
+
+<main>
+  <section class="intro">
+    <p>Chaque randonnée ci-dessous peut se suivre en visite guidée sur votre téléphone, ou se télécharger pour votre application de randonnée habituelle.</p>
+  </section>
+
+  <section id="randonnees" class="grid" aria-live="polite">
+    <p class="loading">Chargement des randonnées…</p>
+  </section>
+</main>
+
+<footer class="about">
+  <div class="about__inner">
+    <p><strong>Rollevillerando</strong> recense les randonnées faites autour du village de Rolleville (Seine-Maritime).</p>
+    <p>Les visites, traces KML et GPX sont produites avec <a href="https://bernardhoyez.github.io/geotour" target="_blank" rel="noopener">GeoTour</a>, une application de préparation de randonnées.</p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => navigator.serviceWorker.register('sw.js'));
+}
+</script>
+</body>
+</html>
