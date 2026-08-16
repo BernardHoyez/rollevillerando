@@ -1,6 +1,6 @@
 {
   "name": "le_tour_de_l_etang_du_moulin_rolleville",
-  "generatedAt": "2026-08-16T14:54:11.727Z",
+  "generatedAt": "2026-08-16T15:14:50.866Z",
   "waypointCount": 59,
   "thumbnail": null,
   "waypoints": [
@@ -237,7 +237,7 @@
     },
     {
       "name": "Cygne",
-      "lat": 49.58610749924169,
+      "lat": 49.586119569828476,
       "lon": 0.21248728036880493,
       "alt": 0,
       "comment": "",
