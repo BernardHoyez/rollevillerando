@@ -1,69 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="Marando" xmlns="http://www.topografix.com/GPX/1/1">
-<wpt lat="49.586858" lon="0.213175"><ele>0</ele><name>Houx</name><desc>Ecouter plus loin le commentaire vocal.</desc></wpt>
-<wpt lat="49.586942" lon="0.212965"><ele>0</ele><name>Noyer</name><desc>
-Voici le noyer. Ou Juglans regia. Cet arbre se trouve dans le jardin de ce particulier. Mais vous pouvez toucher ses feuilles et ramasser ses noix sur le domaine public. Il possède de grandes feuilles composées de 5 à 9 folioles ovales. L'écorce est grise et lisse chez le jeune noyer. Elle se fissure avec l(âge.</desc></wpt>
-<wpt lat="49.585344" lon="0.212651"><ele>0</ele><name>Ormeau</name><link href="audio/ormeau.mp3"><text>Audio</text></link></wpt>
-<wpt lat="49.582932" lon="0.21398"><ele>0</ele><name>Arrivée</name></wpt>
+<wpt lat="49.582983" lon="0.213974"><ele>0</ele><name>Introduction</name><link href="audio/introduction-audio.mp3"><text>Audio</text></link></wpt>
 <wpt lat="49.585199" lon="0.212741"><ele>0</ele><name>Aulne 2004 (7)</name></wpt>
 <wpt lat="49.586321" lon="0.212046"><ele>0</ele><name>Aulne 2009 (12)</name></wpt>
 <wpt lat="49.586506" lon="0.212067"><ele>0</ele><name>Aulne 2011 (14)</name></wpt>
 <wpt lat="49.584721" lon="0.213324"><ele>0</ele><name>Aulne blanc</name><desc>Alnus incana }</desc></wpt>
-<wpt lat="49.586611" lon="0.212166"><ele>0</ele><name>Bambou</name><desc>D'autres pieds de bambou existent plus loin sur le chemin; un commentaire vocal y est proposé. </desc></wpt>
-<wpt lat="49.584819" lon="0.215795"><ele>0</ele><name>bambou</name><desc>
-</desc><link href="audio/bambou.mp3"><text>Audio</text></link></wpt>
-<wpt lat="49.583782" lon="0.214284"><ele>0</ele><name>Bernache du Canada</name><link href="audio/bernache-du-canada.mp3"><text>Audio</text></link><link href="https://www.youtube.com/watch?v=RnzzbLHqTv4"><text>Vidéo YouTube</text></link></wpt>
-<wpt lat="49.58613" lon="0.212094"><ele>0</ele><name>Bouleau blanc</name><desc>Betula pendula  Voila un arbre avec une écorce blanche caractéristique. Cette écorce est lisse et marquée de lenticelles horizontales. Les feuilles sont triangulaires, pointues et dentées. La fleur prend la forme d'un chaton. Le chaton mâle est pendant. Le chaton femelle est dressé. Le bouleau blanc est encore appelé bouleau verruqueux. Ceci est dû au fait que ses jeunes branches portent des verrues de résine blanchâtre. </desc></wpt>
-<wpt lat="49.584534" lon="0.213667"><ele>0</ele><name>Bouleau verruqueux (4)</name><desc>Betula pendula </desc><link href="audio/bouleau-pleureur.mp3"><text>Audio</text></link></wpt>
-<wpt lat="49.583711" lon="0.213712"><ele>0</ele><name>charme</name><link href="audio/charme.mp3"><text>Audio</text></link></wpt>
+<wpt lat="49.586611" lon="0.212166"><ele>0</ele><name>Bambou</name><desc>D'autres pieds de bambou existent plus loin sur le chemin; un commentaire vocal y est proposé.</desc></wpt>
+<wpt lat="49.584819" lon="0.215795"><ele>0</ele><name>bambou</name><link href="audio/bambou-audio.mp3"><text>Audio</text></link></wpt>
+<wpt lat="49.583782" lon="0.214284"><ele>0</ele><name>Bernache du Canada</name><link href="audio/bernache_du_canada-audio.mp3"><text>Audio</text></link><link href="https://www.youtube.com/watch?v=RnzzbLHqTv4"><text>Vidéo YouTube</text></link></wpt>
+<wpt lat="49.58613" lon="0.212094"><ele>0</ele><name>Bouleau blanc</name><desc>Betula pendula Voila un arbre avec une écorce blanche caractéristique. Cette écorce est lisse et marquée de lenticelles horizontales. Les feuilles sont triangulaires, pointues et dentées. La fleur prend la forme d'un chaton. Le chaton mâle est pendant. Le chaton femelle est dressé. Le bouleau blanc est encore appelé bouleau verruqueux. Ceci est dû au fait que ses jeunes branches portent des verrues de résine blanchâtre.</desc></wpt>
+<wpt lat="49.584534" lon="0.213667"><ele>0</ele><name>Bouleau verruqueux (4)</name><desc>Betula pendula</desc><link href="audio/bouleau_verruqueux__4_-audio.mp3"><text>Audio</text></link></wpt>
+<wpt lat="49.583711" lon="0.213712"><ele>0</ele><name>charme</name><link href="audio/charme-audio.mp3"><text>Audio</text></link></wpt>
 <wpt lat="49.585137" lon="0.215551"><ele>0</ele><name>chataignier</name></wpt>
 <wpt lat="49.586424" lon="0.21204"><ele>0</ele><name>Chêne 2010 (13)</name></wpt>
-<wpt lat="49.585617" lon="0.21253"><ele>0</ele><name>Chêne pédonculé</name><desc>Quercus robur 
- Chez le chêne sessile, la base de la feuille ne présente pas d'oreillettes. Alors que chez le chêne pédonculé, il y a 2 oreillettes.</desc><link href="audio/chene-pedoncule.mp3"><text>Audio</text></link></wpt>
+<wpt lat="49.585617" lon="0.21253"><ele>0</ele><name>Chêne pédonculé</name><desc>Quercus robur Chez le chêne sessile, la base de la feuille ne présente pas d'oreillettes. Alors que chez le chêne pédonculé, il y a 2 oreillettes.</desc><link href="audio/ch_ne_p_doncul_-audio.mp3"><text>Audio</text></link></wpt>
 <wpt lat="49.583035" lon="0.214013"><ele>0</ele><name>Chêne rouge d'Amérique (1)</name></wpt>
-<wpt lat="49.582923" lon="0.21397"><ele>0</ele><name>Cliquer ici pour commencer</name><desc>Parcours de découverte de l'Etang du Moulin Bonjour. Vous vous trouvez à l'entrée du site de l'Etang du Moulin. Un chemin a été aménagé de manière à faire le tour de l'étang. Le long de ce parcours d'un peu plus d'un kilomètre, vous allez croiser des éléments naturels. Des arbres, des plantes ou des oiseaux. Si vous souhaitez mieux les connaître, nous allons vous y aider, pas à pas. Utilisez votre téléphone mobile et autorisez la géolocalisation. Sur la carte apparaissent des épingles avec une étiquette associée. Il suffit de cliquer sur ces </desc><link href="audio/presentation-site-etang.mp3"><text>Audio</text></link></wpt>
-<wpt lat="49.584139" lon="0.213822"><ele>0</ele><name>Colvert</name><link href="audio/colvert.mp3"><text>Audio</text></link></wpt>
+<wpt lat="49.582923" lon="0.21397"><ele>0</ele><name>Cliquer ici pour commencer</name><desc>Parcours de découverte de l'Etang du Moulin Bonjour. Vous vous trouvez à l'entrée du site de l'Etang du Moulin. Un chemin a été aménagé de manière à faire le tour de l'étang. Le long de ce parcours d'un peu plus d'un kilomètre, vous allez croiser des éléments naturels. Des arbres, des plantes ou des oiseaux. Si vous souhaitez mieux les connaître, nous allons vous y aider, pas à pas. Utilisez votre téléphone mobile et autorisez la géolocalisation. Sur la carte apparaissent des épingles avec une étiquette associée. Il suffit de cliquer sur ces</desc><link href="audio/cliquer_ici_pour_commencer-audio.mp3"><text>Audio</text></link></wpt>
 <wpt lat="49.58505" lon="0.212891"><ele>0</ele><name>Cornouiller male</name></wpt>
-<wpt lat="49.586086530948506" lon="0.21248686972468625"><ele>0</ele><name>Cygne</name><link href="audio/cygne.mp3"><text>Audio</text></link><link href="https://www.youtube.com/watch?v=zkqAk9iMsdg"><text>Vidéo YouTube</text></link></wpt>
+<wpt lat="49.586086530948506" lon="0.21248686972468625"><ele>0</ele><name>Cygne</name><link href="audio/cygne-audio.mp3"><text>Audio</text></link><link href="https://www.youtube.com/watch?v=zkqAk9iMsdg"><text>Vidéo YouTube</text></link></wpt>
+<wpt lat="49.584139" lon="0.213822"><ele>0</ele><name>Colvert</name><link href="audio/colvert-audio.mp3"><text>Audio</text></link></wpt>
 <wpt lat="49.586381" lon="0.214715"><ele>0</ele><name>Ecorce de frêne</name><desc>L'écorce chez les jeunes arbres est lisse, de couleur gris-vert. En vieillissant l'écorce se fissure et devient rugueuse et crevassée. Ses crevasses dessinent des losanges.</desc></wpt>
 <wpt lat="49.583488" lon="0.217234"><ele>0</ele><name>erable a feuille d'obier</name></wpt>
 <wpt lat="49.584998" lon="0.212921"><ele>0</ele><name>Erable champêtre</name><desc>Acer campestre</desc></wpt>
-<wpt lat="49.58581" lon="0.212368"><ele>0</ele><name>Erable sycomore</name><desc>Acer pseudoplatanus </desc><link href="audio/erable_sycomore.mp3"><text>Audio</text></link></wpt>
-<wpt lat="49.586023" lon="0.212542"><ele>0</ele><name>Foulque macroule</name><desc>
-https://www.youtube.com/embed/vtiyjy_TWv4</desc><link href="https://www.youtube.com/watch?v=52v3bEMKiQ0"><text>Vidéo YouTube</text></link></wpt>
+<wpt lat="49.58581" lon="0.212368"><ele>0</ele><name>Erable sycomore</name><desc>Acer pseudoplatanus</desc><link href="audio/erable_sycomore-audio.mp3"><text>Audio</text></link></wpt>
+<wpt lat="49.586023" lon="0.212542"><ele>0</ele><name>Foulque macroule</name><desc>https://www.youtube.com/embed/vtiyjy_TWv4</desc><link href="https://www.youtube.com/watch?v=52v3bEMKiQ0"><text>Vidéo YouTube</text></link></wpt>
 <wpt lat="49.58312" lon="0.214427"><ele>0</ele><name>Four à pain</name></wpt>
-<wpt lat="49.586799" lon="0.212589"><ele>0</ele><name>Frêne</name><link href="audio/samares.mp3"><text>Audio</text></link></wpt>
+<wpt lat="49.586799" lon="0.212589"><ele>0</ele><name>Frêne</name><link href="audio/fr_ne-audio.mp3"><text>Audio</text></link></wpt>
 <wpt lat="49.583616" lon="0.21376"><ele>0</ele><name>Frene commun (2)</name><desc>Voici une jeune frêne. Regardez son écorce. Elle est grise et lisse. Vous verrez plus loin de vieux frênes; Vous constaterez qu'elle a bien changé en vieillissant.</desc></wpt>
-<wpt lat="49.584375" lon="0.213828"><ele>0</ele><name>Fuligule morillon</name><link href="audio/fuligule-morillon.mp3"><text>Audio</text></link><link href="https://www.youtube.com/watch?v=bLXPddcTiuM"><text>Vidéo YouTube</text></link></wpt>
+<wpt lat="49.584375" lon="0.213828"><ele>0</ele><name>Fuligule morillon</name><link href="audio/fuligule_morillon-audio.mp3"><text>Audio</text></link><link href="https://www.youtube.com/watch?v=bLXPddcTiuM"><text>Vidéo YouTube</text></link></wpt>
 <wpt lat="49.583766" lon="0.214523"><ele>0</ele><name>Gallinule</name></wpt>
-<wpt lat="49.585552" lon="0.212513"><ele>0</ele><name>Gland de chêne</name><link href="audio/gland.mp3"><text>Audio</text></link></wpt>
+<wpt lat="49.585552" lon="0.212513"><ele>0</ele><name>Gland de chêne</name><link href="audio/gland_de_ch_ne-audio.mp3"><text>Audio</text></link></wpt>
 <wpt lat="49.586316" lon="0.214116"><ele>0</ele><name>hetre</name><desc>Tiens voici un arbre à l'écorce lisse. Oui, c'est un hêtre. Regarde-le de loin, on dirait un pied d'éléphant. L'écorce est grise et lisse. elle est très fine. Elle présente des cicatrices. Là où il y avait une branche, il y a une cicatrice. Quand l'arbre croît, la cicatrice est étirée.</desc></wpt>
-<wpt lat="49.586534" lon="0.213399"><ele>0</ele><name>Highlands</name><link href="audio/boeuf-ecosse.mp3"><text>Audio</text></link><link href="https://www.youtube.com/watch?v=WqLglHV8PA0"><text>Vidéo YouTube</text></link></wpt>
-<wpt lat="49.583292" lon="0.217044"><ele>0</ele><name>houx</name><link href="audio/houx.mp3"><text>Audio</text></link></wpt>
-<wpt lat="49.582983" lon="0.213974"><ele>0</ele><name>Introduction</name><link href="audio/introduction.mp3"><text>Audio</text></link></wpt>
+<wpt lat="49.586534" lon="0.213399"><ele>0</ele><name>Highlands</name><link href="audio/highlands-audio.mp3"><text>Audio</text></link><link href="https://www.youtube.com/watch?v=WqLglHV8PA0"><text>Vidéo YouTube</text></link></wpt>
+<wpt lat="49.586858" lon="0.213175"><ele>0</ele><name>Houx</name><desc>Ecouter plus loin le commentaire vocal.</desc></wpt>
+<wpt lat="49.583292" lon="0.217044"><ele>0</ele><name>houx</name><link href="audio/houx-audio.mp3"><text>Audio</text></link></wpt>
 <wpt lat="49.583092" lon="0.213724"><ele>0</ele><name>L'ancienne roue du moulin</name><desc>Il y avait plus d'une dizaine de moulins sur la Lézarde qui étaient mûs par une roue hydraulique. De cette ancienne roue, il ne subsiste ici que l'axe.</desc></wpt>
-<wpt lat="49.583916" lon="0.213944"><ele>0</ele><name>L'étang</name><link href="audio/etang.mp3"><text>Audio</text></link></wpt>
+<wpt lat="49.583916" lon="0.213944"><ele>0</ele><name>L'étang</name><link href="audio/l__tang-audio.mp3"><text>Audio</text></link></wpt>
 <wpt lat="49.583846" lon="0.215203"><ele>0</ele><name>Laurier cerise</name></wpt>
 <wpt lat="49.583347" lon="0.214219"><ele>0</ele><name>Le moulin</name></wpt>
-<wpt lat="49.584305" lon="0.214853"><ele>0</ele><name>Merisier</name><link href="audio/merisier.mp3"><text>Audio</text></link></wpt>
-<wpt lat="49.585576" lon="0.212471"><ele>0</ele><name>Morelle</name><link href="audio/morelle.mp3"><text>Audio</text></link></wpt>
-<wpt lat="49.584222" lon="0.213831"><ele>0</ele><name>Mouette rieuse</name><link href="audio/mouette.mp3"><text>Audio</text></link></wpt>
+<wpt lat="49.584305" lon="0.214853"><ele>0</ele><name>Merisier</name><link href="audio/merisier-audio.mp3"><text>Audio</text></link></wpt>
+<wpt lat="49.585576" lon="0.212471"><ele>0</ele><name>Morelle</name><link href="audio/morelle-audio.mp3"><text>Audio</text></link></wpt>
+<wpt lat="49.584222" lon="0.213831"><ele>0</ele><name>Mouette rieuse</name><link href="audio/mouette_rieuse-audio.mp3"><text>Audio</text></link></wpt>
 <wpt lat="49.586643" lon="0.213384"><ele>0</ele><name>Noisetier</name></wpt>
 <wpt lat="49.585021" lon="0.212898"><ele>0</ele><name>Noisetier</name></wpt>
-<wpt lat="49.586243" lon="0.21208"><ele>0</ele><name>Noisetier</name><link href="audio/noisetier.mp3"><text>Audio</text></link></wpt>
+<wpt lat="49.586243" lon="0.21208"><ele>0</ele><name>Noisetier</name><link href="audio/noisetier-audio.mp3"><text>Audio</text></link></wpt>
 <wpt lat="49.585693" lon="0.212423"><ele>0</ele><name>Noisetier fleur mâle</name><desc>La fleur mâle du noisetier appelée châton. La fleur mâle, appelé chaton, se développe dès le mois de juin jusqu'à l'automne avant de rentrer en dormance jusqu'à la floraison entre mi-décembre et mars. Les chatons se déploient tout en longueur sur 5 à 10 cm en laissant leurs écailles jaunes s'ouvrir.</desc></wpt>
+<wpt lat="49.586942" lon="0.212965"><ele>0</ele><name>Noyer</name><desc>Voici le noyer. Ou Juglans regia. Cet arbre se trouve dans le jardin de ce particulier. Mais vous pouvez toucher ses feuilles et ramasser ses noix sur le domaine public. Il possède de grandes feuilles composées de 5 à 9 folioles ovales. L'écorce est grise et lisse chez le jeune noyer. Elle se fissure avec l(âge.</desc></wpt>
+<wpt lat="49.585344" lon="0.212651"><ele>0</ele><name>Ormeau</name><link href="audio/ormeau-audio.mp3"><text>Audio</text></link></wpt>
 <wpt lat="49.585503" lon="0.212519"><ele>0</ele><name>Ormes</name></wpt>
 <wpt lat="49.583388" lon="0.214879"><ele>0</ele><name>Saule</name></wpt>
 <wpt lat="49.584876" lon="0.21322"><ele>0</ele><name>Saule</name></wpt>
 <wpt lat="49.583067" lon="0.214011"><ele>0</ele><name>Saule pleureur</name></wpt>
-<wpt lat="49.58382" lon="0.215281"><ele>0</ele><name>Source</name><link href="audio/scolopendre.mp3"><text>Audio</text></link></wpt>
+<wpt lat="49.58382" lon="0.215281"><ele>0</ele><name>Source</name><link href="audio/source-audio.mp3"><text>Audio</text></link></wpt>
 <wpt lat="49.585522" lon="0.215292"><ele>0</ele><name>Sureau</name><desc>Commentaire vocal</desc></wpt>
-<wpt lat="49.586949" lon="0.213213"><ele>0</ele><name>Sureau</name><desc>
-Le sureau noir est une espèce d'arbuste fruitier, à feuilles caduques. Quand on casse de jeunes rameaux, on peut voir au coeur la moêlle, une substance blanche et spongieuse. Le bois est protégé par une écorce gris vert, très fissurée. La feuille est composée de 5 à 7 folioles pointues et à bord denté. Quand on frotte les feuilles, elles émettent une odeur déplaisante. Les fleurs blanches sont disposées en ombelle et elles apparaissent au début de l'été. Les fruits sont de petites baies noir violacé disposées en grappe. Les fleurs comm</desc></wpt>
+<wpt lat="49.586949" lon="0.213213"><ele>0</ele><name>Sureau</name><desc>Le sureau noir est une espèce d'arbuste fruitier, à feuilles caduques. Quand on casse de jeunes rameaux, on peut voir au coeur la moêlle, une substance blanche et spongieuse. Le bois est protégé par une écorce gris vert, très fissurée. La feuille est composée de 5 à 7 folioles pointues et à bord denté. Quand on frotte les feuilles, elles émettent une odeur déplaisante. Les fleurs blanches sont disposées en ombelle et elles apparaissent au début de l'été. Les fruits sont de petites baies noir violacé disposées en grappe. Les fleurs comm</desc></wpt>
 <wpt lat="49.586778" lon="0.212409"><ele>0</ele><name>Troène</name></wpt>
 <wpt lat="49.583688" lon="0.213869"><ele>0</ele><name>Tronc de saule</name></wpt>
 <wpt lat="49.58691" lon="0.213124"><ele>0</ele><name>Vieux frêne</name><desc>Comparez l'écorce de ce vieux frêne avec celle du jeune frêne. Celle-ci s'est craquelée. Les lames d'écorce forment des losanges.</desc></wpt>
 <wpt lat="49.586567" lon="0.212115"><ele>0</ele><name>Yucca</name></wpt>
+<wpt lat="49.582932" lon="0.21398"><ele>0</ele><name>Arrivée</name></wpt>
 <trk><name>le_tour_de_l_etang_du_moulin</name><trkseg>
 <trkpt lat="49.582932" lon="0.21398"><ele>0</ele></trkpt>
 <trkpt lat="49.583107" lon="0.213953"><ele>0</ele></trkpt>
