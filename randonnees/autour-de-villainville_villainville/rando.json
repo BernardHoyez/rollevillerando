@@ -1,9 +1,9 @@
 {
   "titre": "Autour de Villainville",
   "vignette": "vignette.jpg",
-  "visite": "autour-de-villainville-villainville.html",
-  "kml": "autour-de-villainville-villainville..kml",
-  "gpx": "autour-de-villainville-villainville..gpx",
+  "visite": "autour-de-villainville_villainville.html",
+  "kml": "autour-de-villainville_villainville..kml",
+  "gpx": "autour-de-villainville_villainville..gpx",
   "distance": "10 km",
   "duree": "2 h"
 }
