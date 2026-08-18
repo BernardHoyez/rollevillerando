@@ -8,6 +8,21 @@ Chaque randonnée est une vignette photo + un titre + 3 liens : **Visite**,
 Aucune dépendance, aucun build : HTML/CSS/JS statiques, déployables tels
 quels sur Netlify.
 
+## Pages du site
+
+- `index.html` — liste des randonnées.
+- `carte.html` — carte d'ensemble : lit automatiquement le `.kml` de chaque
+  randonnée listée dans `randonnees.json` et trace chaque circuit sur une
+  carte Leaflet/OpenStreetMap, avec une légende cliquable. Aucune donnée à
+  maintenir séparément : tout est déduit des fichiers déjà publiés.
+- `installation.html` — explique comment installer le site comme
+  application (Android/Chrome, iOS/Safari, ordinateur).
+- `kml-gpx.html` — explique à quoi servent les fichiers KML et GPX proposés
+  sous chaque randonnée, et quelles applications les ouvrent.
+
+Ces trois pages sont accessibles depuis le bandeau d'icônes affiché sous le
+héros de la page d'accueil.
+
 ## Ajouter une randonnée
 
 1. Dans GeoTour, préparez votre randonnée puis :

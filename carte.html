@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Carte d'ensemble — Randonnées à Rolleville</title>
+<meta name="description" content="Tous les circuits de randonnée autour de Rolleville sur une même carte.">
+<meta name="theme-color" content="#3a5230">
+
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/favicon-32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,500;1,9..144,600&family=Inter:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="style.css">
+<style>
+  body { margin: 0; }
+  #overview-map { position: relative; }
+</style>
+</head>
+<body>
+
+<header class="subheader">
+  <a class="subheader__back" href="index.html">← Rollevillerando</a>
+  <h1 class="subheader__title">🧭 Carte d'ensemble des circuits</h1>
+</header>
+
+<div class="map-page">
+  <div id="overview-map">
+    <div class="map-loading" id="map-status">Chargement des tracés…</div>
+  </div>
+  <nav class="legend" id="legend" aria-label="Liste des circuits"></nav>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="carte.js"></script>
+</body>
+</html>

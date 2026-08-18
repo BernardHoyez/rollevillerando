@@ -41,7 +41,7 @@
     const titre = r.titre || slug;
 
     return `
-      <article class="card">
+      <article class="card" id="rando-${slug}">
         <span class="card__tape" aria-hidden="true"></span>
         <div class="card__photo-wrap">
           <img class="card__photo" src="${vignette}" alt="${titre}" loading="lazy">
@@ -246,6 +246,17 @@
 
     const html = cards.join('');
     grid.innerHTML = html || '<p class="empty">Aucune randonnée publiée pour le moment.</p>';
+
+    // Si on arrive depuis la carte d'ensemble (lien vers une randonnée
+    // précise), on scrolle jusqu'à sa fiche et on la met brièvement en valeur.
+    if (location.hash) {
+      const target = document.querySelector(location.hash);
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        target.classList.add('card--highlight');
+        setTimeout(() => target.classList.remove('card--highlight'), 2200);
+      }
+    }
   } catch (err) {
     console.error(err);
     grid.innerHTML = '<p class="error">Impossible de charger la liste des randonnées.</p>';

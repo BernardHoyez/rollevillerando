@@ -1,8 +1,12 @@
-const CACHE_NAME = 'rollevillerando-cache-v4';
+const CACHE_NAME = 'rollevillerando-cache-v5';
 
 const PRECACHE_ASSETS = [
   './',
   './index.html',
+  './carte.html',
+  './carte.js',
+  './installation.html',
+  './kml-gpx.html',
   './style.css',
   './app.js',
   './manifest.json',
